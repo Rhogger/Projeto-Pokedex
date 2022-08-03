@@ -1,0 +1,36 @@
+@media (max-width: 620px) {
+  .slider {
+    padding: 0 15px;
+    gap: 10px;
+  }
+
+  .arrow {
+    width: 20px;
+    height: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .pokemon-list {
+    height: 480px;
+  }
+
+  .card img {
+    max-height: 230px;
+  }
+
+  .card .information {
+    padding: 0 10px;
+  }
+
+  .card .information h2 {
+    max-width: 50%;
+    font-size: 18px;
+  }
+
+  .card .information p {
+    font-size: 14px;
+  }
+}

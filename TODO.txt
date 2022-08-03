@@ -1,0 +1,6 @@
+- Criar um layout estilo pokedex
+- Filtro para pokemons/geração
+- Escolha de Pokemons e Pokebolas
+- Adicionar todos os Pokemons
+- Implementar o "voltar para inicio" no ultimo slide
+- Busca por numero do pokemon
